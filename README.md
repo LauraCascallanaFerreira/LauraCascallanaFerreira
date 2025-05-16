@@ -8,6 +8,8 @@ I'm a multi-platform application development student.
 - :sparkles: UX/UI design
 
 ## I code with
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,git,php,docker,mysql,androidstudio,angular,react,tailwind)](https://skillicons.dev)
 <!--
 **LauraCascallanaFerreira/LauraCascallanaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
