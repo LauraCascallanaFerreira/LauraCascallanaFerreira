@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi! I'm Laura 👋
 
+I'm a multi-platform application development student.
+
+## Currently learning
+
+- 🌱 Multi-platform application development
+- :sparkles: UX/UI design
+
+## I code with
 <!--
 **LauraCascallanaFerreira/LauraCascallanaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
